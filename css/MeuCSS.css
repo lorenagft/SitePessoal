@@ -1,0 +1,93 @@
+#MenuPrincipal{
+	font-family: Arial,Verdana;
+	color:blue;
+}
+
+#Recomendacao{
+	font-size: 16px;
+	font-weight: bold;
+	color: rgb(50,150,212);
+}
+
+#Descricao{
+	font-style:italic;
+	font-size:25px;
+	font: "Kaushan Script";
++	font-family: "Kaushan Script";
+	
+}
+
+
+a{
+	color: rgb(100,50,200);
+	font-size: 20px;
+}
+
+.NomesFilmes{
+	font-size: 14px;
+	font-weight: bold;
+
+}
+
+#curriculo{
+	height: 600px;
+	width: 100%;
+}
+
+#projeto1{
+	padding-left: 51px;
+}
+
+#projeto2{
+	padding-left: 130px;
+}
+
+#projeto3{
+	padding-left: 146px;
+}
+
+#projeto4{
+	padding-left: 88px;
+}
+
+#projeto5{
+	padding-left: 457px;
+}
+
+#PROJETO_REDES{
+	height: 922px;
+	width: 100%;
+}
+
+#PROJETO_SISTEMAS_DISTRIBUIDOS{
+	width: 100%;
+	height: 922px;
+}
+
+#PROJETO_ANALISADOR_SINTATICO{
+	width: 100%;
+	height: 922px;
+}
+
+#PROJETO_MDS_UML{
+	width: 100%;
+	height: 922px;
+}
+
+#InformacoesContato{
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	padding-bottom: 78px;
+}
+
+#Facebook{
+	padding-bottom: 54px;
+}
+
+body{
+
+	background-color: rgb(255,192,203);
+
+}
